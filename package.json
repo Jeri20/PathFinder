@@ -1,0 +1,23 @@
+{
+  "name": "threejs-pathfinding",
+  "version": "1.0.0",
+  "description": "A simple Three.js project with pathfinding visualization.",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open"
+  },
+  "dependencies": {
+    "@types/three": "^0.167.1",
+    "three": "^0.128.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  },
+  "keywords": [
+    "threejs",
+    "pathfinding",
+    "visualization"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
